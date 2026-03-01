@@ -1,6 +1,7 @@
 Shareholder-analysis
 A Python tool that analyses institutional shareholding data to identify ownership concentration, flag unusual position changes, and visualise trends across a company register — mirroring real-world workflows in financial services.
- Overview
+
+Overview
 
 Institutional ownership data is at the core of corporate governance and investor relations. This project simulates a real shareholder register analysis pipeline: ingesting holdings data, computing concentration metrics, flagging significant position changes, and producing a professional multi-panel dashboard.
 
